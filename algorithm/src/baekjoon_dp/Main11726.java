@@ -6,7 +6,7 @@ public class Main11726 {
 		// TODO Auto-generated method stub
 
 		//commit test
-		
+		//commit test2
 	}
 
 }
