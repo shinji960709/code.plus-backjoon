@@ -9,7 +9,7 @@ public class Main2747 {
 
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-
+		
 		int d[] = new int[100];
 		
 		d[0] = 1;
